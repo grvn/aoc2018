@@ -1,9 +1,13 @@
 Instruktioner
 ======================================
 day7-2.py tar 3 argument:
+
 arg1=input fil
+
 arg2=hur mycket tid tar varje step som minst
+
 arg3=hur många elves arbetar
+
 ```
 ./day7-2.py test 0 2 # för test-input
 ./day7-2.py input 60 5 # för riktigt input
